@@ -46,7 +46,11 @@
   - **If FTX were to offer a hardware wallet for purchase it would potentially lower the amount of cryptoassets on their exchange. Yet due to their offering of a superior hardware wallet I believe it would draw more credibility to the company as well as draw in more big time users to their platform. Crypto users who truly believe in Bitcoin and DeFi are big advocates of users owing their own keys. With the addition of easily available cold storgage from FTX, I believe FTX would have a big backing from some of the biggest crypto influencer's in the space.**
   ## Addendum (Sources)
 https://ftx.com
+
 https://www.forbes.com/sites/stevenehrlich/2021/08/31/us-bitcoin-exchange-backed-by-billionaire-sam-bankman-fried-moves-into-crypto-derivatives/?sh=55585abf4022
+
 https://fortune.com/2021/09/16/crypto-companies-derivatives-trading-regulation-salt-conference/
+
 https://www.bloomberg.com/news/articles/2021-08-31/ftx-acquires-the-first-u-s-approved-crypto-derivatives-platform
+
 https://www.fool.com/investing/2021/09/02/heres-why-cryptocurrency-ftx-is-soaring-today/
