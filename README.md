@@ -1,5 +1,5 @@
 # FTX-Trading Case Study
-![image](./images/ftx-e1582618594817.jpg)
+![image](./Images/ftx-e1582618594817.jpg)
 (https://www.bloomberg.com/news/articles/2021-08-31/ftx-acquires-the-first-u-s-approved-crypto-derivatives-platform)
 ## Overview and Origin
 * What is the name of your company?
@@ -8,7 +8,7 @@
   - **FTX Exchange was incorporated in 2019**
 * Who are the founders of the company?
   - **FTX was founded by Sam Bankman-Fried. Bankman-Fried was a graduate of MIT and a former Wall Street ETF Trader.**
-![image](./images/612e58fc12b9cc0019638562.jpeg)
+![image](./Images/612e58fc12b9cc0019638562.jpeg)
 (https://markets.businessinsider.com/news/currencies/ftx-us-buys-ledgerx-crypto-derivatives-exchange-sam-bankman-fried-2021-08)
 * How did the idea for the company come about?
   - **Bankman-Fried created FTX trading because he wanted to create a trading platform robust enough for professional trading firms as well as intiuative enough for first-time users.**
